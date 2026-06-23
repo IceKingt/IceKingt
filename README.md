@@ -699,3 +699,18 @@ You can reach me through email: **mariamfatimaworks@gmail.com** or on LinkedIn: 
 ---
 ---
 
+## 🎮 Mariam Developer Quest
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IceKingt/IceKingt/main/game/level1.png" width="400"/>
+</p>
+
+### 🕹️ Controls
+
+➡️ [Move Right](https://github.com/IceKingt/IceKingt/issues/1)
+
+⬅️ [Move Left](https://github.com/IceKingt/IceKingt/issues/1)
+
+⚔️ [Fight Bug](https://github.com/IceKingt/IceKingt/issues/1)
+
+💾 [Save Progress](https://github.com/IceKingt/IceKingt/issues/1)
