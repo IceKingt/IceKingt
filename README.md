@@ -495,3 +495,177 @@ If you enjoy my work:
 *"Building today what will matter tomorrow."*
 
 </div>
+
+
+
+---
+----
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=25&pause=1000&color=F7F7F7&background=F75C7E&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Mariam+Fatima+👋🏻;Full+Stack+Developer;Always+building+something+new)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mariamfworks.github.io-f75c7e?style=flat-square&logo=githubpages&logoColor=white)](https://mariamfworks.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/MariamF35)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/MariamF35)
+[![Email](https://img.shields.io/badge/Email-mariamfatimaworks%40gmail.com-f75c7e?style=flat-square&logo=gmail&logoColor=white)](mailto:mariamfatimaworks@gmail.com)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MariamF35&label=Profile%20views&color=f75c7e&style=flat" alt="MariamF35" />
+</p>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" height="250" alt="Floating Workspace" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="300" />
+
+- I’m a **Full-Stack Developer** who loves building end-to-end products.
+- I’m currently exploring **Computer Networks, LLMs, and Gen AI integrations**.
+- I enjoy working with **React, Node.js, Python, and ML**.
+- I’m always learning something new and building side projects.
+- Fun fact: I debug without AI tools and I’m proud of it.
+- Portfolio: **[mariamfworks.github.io](https://mariamfworks.github.io)**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL">
+</p>
+
+### Frontend
+<p>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js">
+</p>
+
+### Backend & Databases
+<p>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL">
+</p>
+
+### Cloud & DevOps
+<p>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker">
+  <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/githubactions/githubactions.png" alt="GitHub Actions">
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariamF35&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamF35&langs_count=8&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariamF35&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MariamF35&bg_color=141321&color=f75c7e&line=f75c7e&point=FFFFFF&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!-- Add your GitHub Action here to auto-update recent activity -->
+1. 🔨 Recent activity will appear here once the action is set up.
+<!--END_SECTION:activity-->
+
+---
+
+## 🛠️ Tools I Use
+
+- VS Code.
+- Zsh with Oh My Zsh.
+- Postman, Notion, Figma, Docker Desktop.
+- GitHub Desktop and the terminal for day-to-day work.
+
+---
+
+## 🎮 Mariam's Code Quest
+
+<p align="center">
+  <img src="https://mariamfworks.github.io/game/view.svg" alt="Mariam's Maze Game" width="420" />
+</p>
+
+<p align="center">
+  <a href="https://mariamfworks.github.io/game/move?dir=up">⬆️ Up</a>
+</p>
+
+<p align="center">
+  <a href="https://mariamfworks.github.io/game/move?dir=left">⬅️ Left</a>
+  <a href="https://mariamfworks.github.io/game/restart">🔄 Restart</a>
+  <a href="https://mariamfworks.github.io/game/move?dir=right">➡️ Right</a>
+</p>
+
+<p align="center">
+  <a href="https://mariamfworks.github.io/game/move?dir=down">⬇️ Down</a>
+</p>
+
+<p align="center">
+  <a href="https://mariamfworks.github.io">🏁 Visit Portfolio</a>
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MariamF35/MariamF35/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📫 Reach Me
+
+You can reach me through email: **mariamfatimaworks@gmail.com** or on LinkedIn: **[MariamF35](https://linkedin.com/in/mariam-f-a8827)**.
+
+---
+
+<div align="center">
+
+### 💙 If you like my work, give it a ⭐ and visit [mariamfworks.github.io](https://mariamfworks.github.io).
+
+*Made with ❤️ by Mariam Fatima*
+
+</div>
